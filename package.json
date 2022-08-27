@@ -1,0 +1,22 @@
+{
+  "name": "goit-markup-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alisa-Petryk/goit-markup-hw-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alisa-Petryk/goit-markup-hw-01/issues"
+  },
+  "homepage": "https://github.com/Alisa-Petryk/goit-markup-hw-01#readme"
+}
